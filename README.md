@@ -1,5 +1,8 @@
 # VSCodeMCP
 
+
+TODO RETIRE OR TURN INTO JUST A VSCODE SCRIPT IF THE OTHER GROQ-MCP-SERVER FOR DOESNT WORK OUT THE BOX WITH VSCODE COPILOT THEN WE NEED TO FIGURE OUT WHAT THAT ISSUE IS
+
 A Python module for creating and managing MCP (Model Context Protocol) servers for Visual Studio Code's Copilot agent feature, with optional Groq LLM integration.
 
 ## Overview
