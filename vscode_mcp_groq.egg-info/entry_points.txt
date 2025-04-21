@@ -1,3 +1,0 @@
-[console_scripts]
-vscode-mcp = oarc_groq_mcp:cli
-vscode-mcp-groq = oarc_groq_mcp:cli
